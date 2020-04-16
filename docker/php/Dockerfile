@@ -1,6 +1,6 @@
 FROM php:7.1.0-fpm-alpine
 
-MAINTAINER Sathit Seethaphon <dixonsatit@gmail.com>
+MAINTAINER Thiti Chompha <tarcdr@gmail.com>
 
 ENV TIMEZONE Asia/Bangkok
 
